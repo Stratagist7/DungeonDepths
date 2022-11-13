@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8ddb567330e9e554f81536e64d186a1a
+  - enabled: 1
+    path: Assets/Scenes/BestTimes.unity
+    guid: de38c6ebbf3a34a45b204c9d599552ae
+  - enabled: 1
+    path: Assets/Scenes/StartRoom.unity
+    guid: f3604552b168fd548b0e02d4f1335abe
+  - enabled: 1
+    path: Assets/Scenes/FloorPuzzle.unity
+    guid: 40a8f3ecf25884142bbe180402186816
+  - enabled: 1
+    path: Assets/Scenes/SixToNine.unity
+    guid: a059883b9dfc79b479e75f84bd18e150
+  - enabled: 1
+    path: Assets/Scenes/Maze.unity
+    guid: b545289de86e7a449b3b82513690f0dd
+  - enabled: 1
+    path: Assets/Scenes/RisingPuzzle.unity
+    guid: c1fbfbd4012e9b547b708f7323d7c5e0
+  - enabled: 1
+    path: Assets/Scenes/FirePuzzle.unity
+    guid: f4d0f6ab2c150d041ab7b47295222494
+  - enabled: 1
+    path: Assets/Scenes/WinWorld.unity
+    guid: 58ecf9da2f0163d4d97e2d594aec12bf
+  m_configObjects: {}
